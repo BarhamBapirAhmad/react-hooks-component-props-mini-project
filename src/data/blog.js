@@ -27,5 +27,5 @@ const blogData = {
     },
   ],
 };
-
+export { blogData };
 export default blogData;
